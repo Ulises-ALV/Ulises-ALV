@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ulises-ALV
 - 👀 I’m interested in python and backend. Anything related to programming.
-- 🌱 I’m currently learning python
+- 🌱 My main programming language is Python.
 
 <!---
 Ulises-ALV/Ulises-ALV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
